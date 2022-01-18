@@ -1,7 +1,9 @@
 # Atom One Light Theme
 This is a port of [akamud's Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
+
 [Original repo](https://github.com/akamud/vscode-theme-onelight)
-[Repo for this port]()
+
+[Repo for this port](https://github.com/Lord-Mustang/vs-theme-onelight)
 
 VS Code Theme based on Atom's [One Light](https://github.com/atom/one-light-syntax) theme.
 
@@ -18,4 +20,5 @@ Tools > Options > Environment > Fonts and Colors > Font: Consolas, Size: 11
 
 ## Credits
 [Atom One Light Theme for VS Code](https://github.com/akamud/vscode-theme-onelight)
+
 [Atom](https://github.com/atom)
