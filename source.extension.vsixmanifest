@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Id="AtomOneLight.6888f23e-3f95-4a4b-b340-f88bdc39664b" Version="0.0.1" Language="en-US" Publisher="LMustang" />
         <DisplayName>Atom One Light</DisplayName>
-        <Description xml:space="preserve">A Visual Studio port of the Atom One Light theme made for Visual Studio Code by Mahmoud Ali</Description>
+        <Description xml:space="preserve">A Visual Studio port of the Atom One Light theme, originally made for Visual Studio Code by Mahmoud Ali</Description>
         <License>LICENSE.txt</License>
         <Icon>icon.png</Icon>
         <PreviewImage>preview.png</PreviewImage>
