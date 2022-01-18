@@ -7,7 +7,6 @@
         <License>LICENSE.txt</License>
         <Icon>icon.png</Icon>
         <PreviewImage>preview.png</PreviewImage>
-        <Preview>true</Preview>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
