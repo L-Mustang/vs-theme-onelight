@@ -5,6 +5,8 @@ This is a port of [akamud's Atom One Light Theme](https://marketplace.visualstud
 
 [Repo for this port](https://github.com/Lord-Mustang/vs-theme-onelight)
 
+[Tool used for porting](https://github.com/microsoft/theme-converter-for-vs)
+
 VS Code Theme based on Atom's [One Light](https://github.com/atom/one-light-syntax) theme.
 
 ![](https://raw.githubusercontent.com/akamud/vscode-theme-onelight/master/screenshots/preview.png)
