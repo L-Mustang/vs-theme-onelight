@@ -56,7 +56,7 @@
     <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="17.0.5234" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="atomonelight.pkgdef">
+    <Content Include="One Light.pkgdef">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
